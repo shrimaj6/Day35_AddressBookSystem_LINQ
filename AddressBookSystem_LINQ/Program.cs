@@ -87,7 +87,7 @@ namespace AddressBookSystem_LINQ
                             break;
                         case 7:
                             dataTable.CountByCityAndState();
-                            break;
+                            break; 
                         case 8:
                             Console.WriteLine("Enter the city: ");
                             model.City = Console.ReadLine();
